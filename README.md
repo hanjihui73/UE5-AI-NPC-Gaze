@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/87c5dcf2-8388-41ee-b0ca-b279346604ad
 
 | 항목 | 내용 |
 |---|---|
-| 개발 기간 | 2026.01 ~ 진행 중 |
+| 개발 기간 | 2026.02 ~ 진행 중 |
 | 프로젝트 형태 | 개인 졸업 프로젝트 |
 | 개발 엔진 | Unreal Engine 5 |
 | 사용 언어 | C++, Python |
